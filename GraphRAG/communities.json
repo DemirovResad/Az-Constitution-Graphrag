@@ -1,0 +1,1160 @@
+[
+  {
+    "id": 0,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "beynəlxalq hüquq"
+    ]
+  },
+  {
+    "id": 1,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "əfv etmə"
+    ]
+  },
+  {
+    "id": 2,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "xalq",
+      "xalqın nümayəndələri"
+    ]
+  },
+  {
+    "id": 3,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "ailə",
+      "cəmiyyət",
+      "dövlət",
+      "dövlət mülkiyyəti",
+      "dövlət qulluqçuları",
+      "ekoloji tarazlıq",
+      "insan və vətəndaş",
+      "istedadlı şəxslər",
+      "işsiz",
+      "minimum təhsil standartları",
+      "minimum əmək haqqı",
+      "mülkiyyət",
+      "mənzil hüququ",
+      "nikah",
+      "sosial müavinət",
+      "tarix və mədəniyyət abidələri",
+      "təhsil hüququ",
+      "təhsil sistemi",
+      "uşaq",
+      "valideyn",
+      "vəhşi heyvanlar",
+      "vərəsəlik hüququ",
+      "xüsusi mülkiyyət",
+      "yabanı bitkilər",
+      "yaradıcılıq",
+      "yazışma, telefon danışıqları, poçt, teleqraf və digər rabitə vasitələri ilə ötürülən məlumatın sirrini saxlamaq hüququ",
+      "şəxs",
+      "şəxsiyyətin ləyaqəti",
+      "ətraf mühit"
+    ]
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "parent": 3,
+    "members": [
+      "uşaq",
+      "valideyn"
+    ]
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "parent": 3,
+    "members": [
+      "cəmiyyət",
+      "tarix və mədəniyyət abidələri",
+      "şəxs",
+      "ətraf mühit"
+    ]
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "parent": 3,
+    "members": [
+      "ailə",
+      "dövlət",
+      "dövlət qulluqçuları",
+      "ekoloji tarazlıq",
+      "insan və vətəndaş",
+      "istedadlı şəxslər",
+      "minimum təhsil standartları",
+      "minimum əmək haqqı",
+      "mənzil hüququ",
+      "nikah",
+      "təhsil hüququ",
+      "təhsil sistemi",
+      "vəhşi heyvanlar",
+      "vərəsəlik hüququ",
+      "yabanı bitkilər",
+      "yaradıcılıq",
+      "yazışma, telefon danışıqları, poçt, teleqraf və digər rabitə vasitələri ilə ötürülən məlumatın sirrini saxlamaq hüququ",
+      "şəxsiyyətin ləyaqəti"
+    ]
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "parent": 3,
+    "members": [
+      "dövlət mülkiyyəti",
+      "mülkiyyət",
+      "xüsusi mülkiyyət"
+    ]
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "parent": 3,
+    "members": [
+      "işsiz",
+      "sosial müavinət"
+    ]
+  },
+  {
+    "id": 9,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "insan"
+    ]
+  },
+  {
+    "id": 10,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "hüquq"
+    ]
+  },
+  {
+    "id": 11,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "azadlıq"
+    ]
+  },
+  {
+    "id": 12,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "fiziki və ya hüquqi şəxslər"
+    ]
+  },
+  {
+    "id": 13,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "mülkiyyət növləri"
+    ]
+  },
+  {
+    "id": 14,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "qəyyum"
+    ]
+  },
+  {
+    "id": 15,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "alternativ xidmət",
+      "azərbaycan dili",
+      "azərbaycan ordusu",
+      "azərbaycan respublikası",
+      "bakı",
+      "başqa silahlı birləşmələr",
+      "din",
+      "dövlət bayrağı",
+      "dövlət gerbi",
+      "dövlət himni",
+      "dövlət orqanı",
+      "dövlət rəmzləri",
+      "dövlət təhsil sistemi",
+      "dövlətin idarə olunmasında iştirak etmək hüququ",
+      "hərbi qulluqçu",
+      "hərbi xidmət",
+      "iqtisadiyyat",
+      "konstitusiya qanunu",
+      "manat",
+      "müqavimət göstərmək hüququ",
+      "müraciət etmək hüququ",
+      "mərkəzi bank",
+      "normativ hüquqi akt",
+      "qanunvericilik təşəbbüsü",
+      "seçki hüququ",
+      "silahlı qüvvələr",
+      "siyasi həyatda iştirak hüququ",
+      "təbii ehtiyatlar",
+      "tənqid etmək hüququ",
+      "vergi",
+      "vətəndaş",
+      "vətəndaşlıq",
+      "vətəndaşlığı olmayan şəxs",
+      "vətəni müdafiə",
+      "əcnəbi"
+    ]
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "parent": 15,
+    "members": [
+      "dövlət bayrağı",
+      "dövlət gerbi",
+      "dövlət himni",
+      "konstitusiya qanunu",
+      "normativ hüquqi akt"
+    ]
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "parent": 15,
+    "members": [
+      "azərbaycan dili",
+      "azərbaycan ordusu",
+      "azərbaycan respublikası",
+      "bakı",
+      "başqa silahlı birləşmələr",
+      "din",
+      "dövlət təhsil sistemi",
+      "iqtisadiyyat",
+      "manat",
+      "mərkəzi bank",
+      "silahlı qüvvələr",
+      "təbii ehtiyatlar"
+    ]
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "parent": 15,
+    "members": [
+      "hərbi qulluqçu",
+      "müraciət etmək hüququ"
+    ]
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "parent": 15,
+    "members": [
+      "dövlət orqanı",
+      "vətəndaşlığı olmayan şəxs",
+      "əcnəbi"
+    ]
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "parent": 15,
+    "members": [
+      "alternativ xidmət",
+      "hərbi xidmət"
+    ]
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "parent": 15,
+    "members": [
+      "dövlət rəmzləri",
+      "dövlətin idarə olunmasında iştirak etmək hüququ",
+      "müqavimət göstərmək hüququ",
+      "qanunvericilik təşəbbüsü",
+      "seçki hüququ",
+      "siyasi həyatda iştirak hüququ",
+      "tənqid etmək hüququ",
+      "vergi",
+      "vətəndaş",
+      "vətəndaşlıq",
+      "vətəni müdafiə"
+    ]
+  },
+  {
+    "id": 22,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "azərbaycan"
+    ]
+  },
+  {
+    "id": 23,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "insan ləyaqəti"
+    ]
+  },
+  {
+    "id": 24,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "ailə qurmaq hüququ",
+      "ailə üzvləri",
+      "ana dilindən istifadə etmək hüququ",
+      "azad sahibkarlıq hüququ",
+      "birləşmək hüququ",
+      "dövlət orqanları",
+      "fikir və söz azadlığı",
+      "hüquqi yardım almaq hüququ",
+      "hüquqi şəxslər",
+      "hüquqlar və azadlıqlar",
+      "həmkarlar ittifaqları",
+      "həmkarlar ittifaqı",
+      "hər kəs",
+      "ictimai birlik",
+      "ictimai birliklər",
+      "istirahət hüququ",
+      "milli mənsubiyyət hüququ",
+      "müdafiəçi",
+      "mülkiyyət hüququ",
+      "məcburi əmək",
+      "mədəniyyət hüququ",
+      "məhkəmə",
+      "məhkəmə qərarı",
+      "məlumat azadlığı",
+      "məlumat toplamaq hüququ",
+      "məlumatlarla tanış olmaq hüququ",
+      "məlumatların düzəldilməsini və ya çıxarılmasını tələb etmək hüququ",
+      "mənzil toxunulmazlığı hüququ",
+      "sağlam ətraf mühitdə yaşamaq hüququ",
+      "sağlamlığın qorunması hüququ",
+      "siyasi partiya",
+      "siyasi partiyalar",
+      "sosial təminat hüququ",
+      "sərbəst toplaşmaq azadlığı",
+      "təhlükəsiz yaşamaq hüququ",
+      "təqsirləndirilən şəxs",
+      "təqsirsizlik prezumpsiyası",
+      "tərbiyə və təhsil almaq hüququ",
+      "tətil hüququ",
+      "vicdan azadlığı",
+      "vicdanlı davranış hüququ",
+      "vəzifəli şəxslər",
+      "yaradıcılıq azadlığı",
+      "yaradıcılıqla məşğul olmaq hüququ",
+      "zərər çəkmiş şəxs",
+      "zərərin əvəzini almaq hüququ",
+      "ölüm cəzası",
+      "şərəf və ləyaqətin müdafiəsi hüququ",
+      "şəxsi toxunulmazlıq hüququ",
+      "şəxsi və ailə həyatına müdaxilədən müdafiə hüququ",
+      "şəxsi və ailə həyatının sirrini saxlamaq hüququ",
+      "ədalət mühakiməsi",
+      "əmək",
+      "əmək müqaviləsi",
+      "əqli mülkiyyət hüququ"
+    ]
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "parent": 24,
+    "members": [
+      "ictimai birlik",
+      "məcburi əmək",
+      "məhkəmə",
+      "məhkəmə qərarı",
+      "təqsirləndirilən şəxs",
+      "zərər çəkmiş şəxs",
+      "ölüm cəzası",
+      "ədalət mühakiməsi"
+    ]
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "parent": 24,
+    "members": [
+      "ailə qurmaq hüququ",
+      "ailə üzvləri",
+      "ana dilindən istifadə etmək hüququ",
+      "azad sahibkarlıq hüququ",
+      "birləşmək hüququ",
+      "dövlət orqanları",
+      "fikir və söz azadlığı",
+      "hüquqi yardım almaq hüququ",
+      "hüquqi şəxslər",
+      "hüquqlar və azadlıqlar",
+      "həmkarlar ittifaqları",
+      "həmkarlar ittifaqı",
+      "hər kəs",
+      "ictimai birliklər",
+      "istirahət hüququ",
+      "milli mənsubiyyət hüququ",
+      "müdafiəçi",
+      "mülkiyyət hüququ",
+      "mədəniyyət hüququ",
+      "məlumat azadlığı",
+      "məlumat toplamaq hüququ",
+      "məlumatlarla tanış olmaq hüququ",
+      "məlumatların düzəldilməsini və ya çıxarılmasını tələb etmək hüququ",
+      "mənzil toxunulmazlığı hüququ",
+      "sağlam ətraf mühitdə yaşamaq hüququ",
+      "sağlamlığın qorunması hüququ",
+      "siyasi partiya",
+      "siyasi partiyalar",
+      "sosial təminat hüququ",
+      "sərbəst toplaşmaq azadlığı",
+      "təhlükəsiz yaşamaq hüququ",
+      "təqsirsizlik prezumpsiyası",
+      "tərbiyə və təhsil almaq hüququ",
+      "tətil hüququ",
+      "vicdan azadlığı",
+      "vicdanlı davranış hüququ",
+      "vəzifəli şəxslər",
+      "yaradıcılıq azadlığı",
+      "yaradıcılıqla məşğul olmaq hüququ",
+      "zərərin əvəzini almaq hüququ",
+      "şərəf və ləyaqətin müdafiəsi hüququ",
+      "şəxsi toxunulmazlıq hüququ",
+      "şəxsi və ailə həyatına müdaxilədən müdafiə hüququ",
+      "şəxsi və ailə həyatının sirrini saxlamaq hüququ",
+      "əmək",
+      "əmək müqaviləsi",
+      "əqli mülkiyyət hüququ"
+    ]
+  },
+  {
+    "id": 27,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "kişi",
+      "qadın"
+    ]
+  },
+  {
+    "id": 28,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "sağlamlıq imkanları məhdud olanlar"
+    ]
+  },
+  {
+    "id": 29,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "yaşamaq hüququ"
+    ]
+  },
+  {
+    "id": 30,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "arvad",
+      "ər"
+    ]
+  },
+  {
+    "id": 31,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "azərbaycan respublikasının silahlı qüvvələri"
+    ]
+  },
+  {
+    "id": 32,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "lokaut"
+    ]
+  },
+  {
+    "id": 33,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "təqaüd"
+    ]
+  },
+  {
+    "id": 34,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "ekoloji hüquqpozma"
+    ]
+  },
+  {
+    "id": 35,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "cinayət",
+      "fikir və əqidə",
+      "heç kəs"
+    ]
+  },
+  {
+    "id": 36,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "dövlət senzurası",
+      "kütləvi informasiya vasitələri",
+      "kütləvi informasiyanın azadlığı"
+    ]
+  },
+  {
+    "id": 37,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "azərbaycan dövləti",
+      "azərbaycan respublikasının vətəndaşı",
+      "bələdiyyə",
+      "bələdiyyə mülkiyyəti",
+      "bələdiyyə sədri",
+      "bələdiyyə üzvü",
+      "bələdiyyənin sədri",
+      "haqsız rəqabət",
+      "hüquqi şəxs",
+      "inhisarçılıq",
+      "sahibkarlıq",
+      "yerli büdcə",
+      "yerli vergilər"
+    ]
+  },
+  {
+    "id": 38,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "vətəndaşlıq hüququ"
+    ]
+  },
+  {
+    "id": 39,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "dövlət məmuru"
+    ]
+  },
+  {
+    "id": 40,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "din xadimi"
+    ]
+  },
+  {
+    "id": 41,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "inzibati orqan"
+    ]
+  },
+  {
+    "id": 42,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "azadlıq hüququ",
+      "azərbaycan respublikası vətəndaşı",
+      "bələdiyyə qulluqçuları",
+      "bələdiyyələr",
+      "hakim",
+      "insan hüquq və azadlıqları",
+      "məsuliyyət",
+      "qanun",
+      "seçkilər"
+    ]
+  },
+  {
+    "id": 43,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "səlahiyyətli dövlət orqanları"
+    ]
+  },
+  {
+    "id": 44,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "məhkəmə aidiyyəti"
+    ]
+  },
+  {
+    "id": 45,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "məhkum",
+      "məhkəməyə təkrar müraciət hüququ"
+    ]
+  },
+  {
+    "id": 46,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "siyasi sığınacaq"
+    ]
+  },
+  {
+    "id": 47,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "vətənə sədaqət"
+    ]
+  },
+  {
+    "id": 48,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "ailəsi",
+      "ali məhkəmə",
+      "amnistiya",
+      "apellyasiya məhkəmələri",
+      "azərbaycan respublikası konstitusiyası",
+      "baş nazir",
+      "baş nazirin müavini",
+      "baş prokuror",
+      "baş prokurorun müavinləri",
+      "birinci vitse-prezident",
+      "deputat",
+      "diplomatik nümayəndəliklər",
+      "dövlət büdcəsi",
+      "dövlət qulluğunu idarəetmə şurası",
+      "fövqəladə vəziyyət",
+      "fərman",
+      "hesablama palatası",
+      "heydər əliyev",
+      "hökumətlərarası müqavilələr",
+      "hərbi doktrina",
+      "hərbi vəziyyət",
+      "icra hakimiyyəti",
+      "insan hüquqları üzrə müvəkkil",
+      "inzibati ərazi bölgüsü",
+      "iqtisadi proqramlar",
+      "konstitusiya məhkəməsi",
+      "konstitusiya məhkəməsinin sədri",
+      "konstitusiya qanunları",
+      "korrupsiyaya qarşı mübarizə üzrə komissiya",
+      "maliyyə-kredit siyasəti",
+      "milli məclis",
+      "milli məclisin sədri",
+      "müavin",
+      "məhkəmə hüquq şurası",
+      "mərkəzi bank idarə heyəti",
+      "mərkəzi bank sədri",
+      "mərkəzi icra hakimiyyəti orqanı rəhbəri",
+      "mərkəzi seçki komissiyası",
+      "naxçıvan muxtar respublikası nazirlər kabineti",
+      "naxçıvan muxtar respublikasının prokuroru",
+      "nazir",
+      "nazirlər kabineti",
+      "prezident",
+      "prezident administrasiyası",
+      "prokurorluq",
+      "qanunvericilik hakimiyyəti",
+      "qərar",
+      "respublika ixtisaslaşdırılmış prokurorluqlarına rəhbərlik edən prokurorlar",
+      "seçki",
+      "sosial təminat proqramları",
+      "sərəncam",
+      "səsvermə",
+      "səsvermə hüququ",
+      "toxunulmazlıq hüququ",
+      "təhlükəsizlik şurası",
+      "vitse-prezident",
+      "vəzifəli şəxs",
+      "xüsusi mühafizə xidmətləri",
+      "yerli icra hakimiyyəti",
+      "yerli icra hakimiyyəti başçısı",
+      "ərazi və ixtisaslaşdırılmış prokurorlar"
+    ]
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "parent": 48,
+    "members": [
+      "baş prokuror",
+      "baş prokurorun müavinləri",
+      "naxçıvan muxtar respublikasının prokuroru",
+      "prokurorluq",
+      "respublika ixtisaslaşdırılmış prokurorluqlarına rəhbərlik edən prokurorlar",
+      "ərazi və ixtisaslaşdırılmış prokurorlar"
+    ]
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "parent": 48,
+    "members": [
+      "ali məhkəmə",
+      "amnistiya",
+      "apellyasiya məhkəmələri",
+      "azərbaycan respublikası konstitusiyası",
+      "deputat",
+      "diplomatik nümayəndəliklər",
+      "dövlət qulluğunu idarəetmə şurası",
+      "hesablama palatası",
+      "hökumətlərarası müqavilələr",
+      "hərbi doktrina",
+      "insan hüquqları üzrə müvəkkil",
+      "inzibati ərazi bölgüsü",
+      "konstitusiya məhkəməsi",
+      "konstitusiya məhkəməsinin sədri",
+      "konstitusiya qanunları",
+      "korrupsiyaya qarşı mübarizə üzrə komissiya",
+      "milli məclis",
+      "milli məclisin sədri",
+      "məhkəmə hüquq şurası",
+      "mərkəzi seçki komissiyası",
+      "qanunvericilik hakimiyyəti",
+      "qərar",
+      "seçki",
+      "səsvermə",
+      "səsvermə hüququ",
+      "vəzifəli şəxs"
+    ]
+  },
+  {
+    "id": 51,
+    "level": 2,
+    "parent": 50,
+    "members": [
+      "ali məhkəmə",
+      "azərbaycan respublikası konstitusiyası",
+      "hökumətlərarası müqavilələr",
+      "insan hüquqları üzrə müvəkkil",
+      "konstitusiya məhkəməsi",
+      "mərkəzi seçki komissiyası",
+      "seçki"
+    ]
+  },
+  {
+    "id": 52,
+    "level": 2,
+    "parent": 50,
+    "members": [
+      "amnistiya",
+      "apellyasiya məhkəmələri",
+      "deputat",
+      "diplomatik nümayəndəliklər",
+      "dövlət qulluğunu idarəetmə şurası",
+      "hesablama palatası",
+      "hərbi doktrina",
+      "inzibati ərazi bölgüsü",
+      "konstitusiya məhkəməsinin sədri",
+      "konstitusiya qanunları",
+      "korrupsiyaya qarşı mübarizə üzrə komissiya",
+      "milli məclis",
+      "milli məclisin sədri",
+      "məhkəmə hüquq şurası",
+      "qanunvericilik hakimiyyəti",
+      "qərar",
+      "səsvermə",
+      "səsvermə hüququ",
+      "vəzifəli şəxs"
+    ]
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "parent": 48,
+    "members": [
+      "ailəsi",
+      "birinci vitse-prezident",
+      "xüsusi mühafizə xidmətləri"
+    ]
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "parent": 48,
+    "members": [
+      "baş nazir",
+      "baş nazirin müavini",
+      "dövlət büdcəsi",
+      "fövqəladə vəziyyət",
+      "fərman",
+      "heydər əliyev",
+      "hərbi vəziyyət",
+      "icra hakimiyyəti",
+      "iqtisadi proqramlar",
+      "maliyyə-kredit siyasəti",
+      "müavin",
+      "mərkəzi bank idarə heyəti",
+      "mərkəzi bank sədri",
+      "mərkəzi icra hakimiyyəti orqanı rəhbəri",
+      "naxçıvan muxtar respublikası nazirlər kabineti",
+      "nazir",
+      "nazirlər kabineti",
+      "prezident",
+      "prezident administrasiyası",
+      "sosial təminat proqramları",
+      "sərəncam",
+      "toxunulmazlıq hüququ",
+      "təhlükəsizlik şurası",
+      "vitse-prezident",
+      "yerli icra hakimiyyəti",
+      "yerli icra hakimiyyəti başçısı"
+    ]
+  },
+  {
+    "id": 55,
+    "level": 2,
+    "parent": 54,
+    "members": [
+      "baş nazirin müavini",
+      "dövlət büdcəsi",
+      "iqtisadi proqramlar",
+      "maliyyə-kredit siyasəti",
+      "müavin",
+      "mərkəzi icra hakimiyyəti orqanı rəhbəri",
+      "nazir",
+      "nazirlər kabineti",
+      "sosial təminat proqramları"
+    ]
+  },
+  {
+    "id": 56,
+    "level": 2,
+    "parent": 54,
+    "members": [
+      "yerli icra hakimiyyəti",
+      "yerli icra hakimiyyəti başçısı"
+    ]
+  },
+  {
+    "id": 57,
+    "level": 2,
+    "parent": 54,
+    "members": [
+      "baş nazir",
+      "fövqəladə vəziyyət",
+      "fərman",
+      "heydər əliyev",
+      "hərbi vəziyyət",
+      "icra hakimiyyəti",
+      "mərkəzi bank idarə heyəti",
+      "mərkəzi bank sədri",
+      "naxçıvan muxtar respublikası nazirlər kabineti",
+      "prezident",
+      "prezident administrasiyası",
+      "sərəncam",
+      "toxunulmazlıq hüququ",
+      "təhlükəsizlik şurası",
+      "vitse-prezident"
+    ]
+  },
+  {
+    "id": 58,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "məhkəmə orqanları"
+    ]
+  },
+  {
+    "id": 59,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "şərəf və ləyaqət"
+    ]
+  },
+  {
+    "id": 60,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "mərkəzi icra hakimiyyəti orqanı",
+      "mərkəzi icra hakimiyyəti orqanının rəhbəri"
+    ]
+  },
+  {
+    "id": 61,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "cinayət məhkəmə icraatı",
+      "müdafiə tərəfi"
+    ]
+  },
+  {
+    "id": 62,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "mülki məhkəmə icraatı"
+    ]
+  },
+  {
+    "id": 63,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "müdafiə hüququ"
+    ]
+  },
+  {
+    "id": 64,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "məhkəmə icraatı"
+    ]
+  },
+  {
+    "id": 65,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "işin iştirakçısı"
+    ]
+  },
+  {
+    "id": 66,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "komissiyalar",
+      "naxçıvan muxtar respublikası ali məclisi",
+      "naxçıvan muxtar respublikası ali məclisinin sədri",
+      "naxçıvan muxtar respublikası ali məclisinin sədrinin müavinləri",
+      "naxçıvan muxtar respublikası baş naziri",
+      "naxçıvan muxtar respublikası iqtisadiyyatının inkişafı istiqamətləri",
+      "naxçıvan muxtar respublikasının ali məclisi",
+      "naxçıvan muxtar respublikasının ali məclisinə seçkilər",
+      "naxçıvan muxtar respublikasının baş naziri",
+      "naxçıvan muxtar respublikasının büdcəsi",
+      "naxçıvan muxtar respublikasının iqtisadi proqramları",
+      "naxçıvan muxtar respublikasının nazirlər kabineti",
+      "naxçıvan muxtar respublikasının sosial proqramları",
+      "qanunvericilik təşəbbüsü hüququ",
+      "sosial təminat",
+      "səhiyyə, elm, mədəniyyət",
+      "turizm",
+      "vergilər",
+      "ətraf mühitin qorunması"
+    ]
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "parent": 66,
+    "members": [
+      "naxçıvan muxtar respublikası ali məclisi",
+      "naxçıvan muxtar respublikası ali məclisinin sədri",
+      "naxçıvan muxtar respublikası baş naziri",
+      "naxçıvan muxtar respublikasının büdcəsi",
+      "naxçıvan muxtar respublikasının iqtisadi proqramları",
+      "naxçıvan muxtar respublikasının nazirlər kabineti",
+      "naxçıvan muxtar respublikasının sosial proqramları"
+    ]
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "parent": 66,
+    "members": [
+      "komissiyalar",
+      "naxçıvan muxtar respublikası ali məclisinin sədrinin müavinləri",
+      "naxçıvan muxtar respublikası iqtisadiyyatının inkişafı istiqamətləri",
+      "naxçıvan muxtar respublikasının ali məclisi",
+      "naxçıvan muxtar respublikasının ali məclisinə seçkilər",
+      "naxçıvan muxtar respublikasının baş naziri",
+      "qanunvericilik təşəbbüsü hüququ",
+      "sosial təminat",
+      "səhiyyə, elm, mədəniyyət",
+      "turizm",
+      "vergilər",
+      "ətraf mühitin qorunması"
+    ]
+  },
+  {
+    "id": 69,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "qanunvericilik orqanları"
+    ]
+  },
+  {
+    "id": 70,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "ali məclis",
+      "azərbaycan respublikasının dövlət sərhədləri",
+      "azərbaycan respublikasının konstitusiyası",
+      "azərbaycan xalqı",
+      "beynəlxalq müqavilələr",
+      "dövlət hakimiyyəti",
+      "fərmanlar",
+      "hakimiyyət",
+      "hakimlər",
+      "icra hakimiyyəti orqanları",
+      "insan və vətəndaş hüquqları və azadlıqları",
+      "ixtisaslaşdırılmış məhkəmələr",
+      "konstitusiya",
+      "məhkəmə hakimiyyəti",
+      "məhkəmə hakimiyyəti orqanları",
+      "məhkəmələr",
+      "mərkəzi icra hakimiyyəti orqanları",
+      "naxçıvan muxtar respublikası",
+      "naxçıvan muxtar respublikasının konstitusiyası",
+      "naxçıvan muxtar respublikasının qanunları",
+      "naxçıvan muxtar respublikasının qanunvericilik sistemi",
+      "nümayəndələr",
+      "qanunlar",
+      "qanunvericilik hakimiyyəti orqanları",
+      "qanunvericilik sistemi",
+      "qərarlar",
+      "referendum",
+      "referendumla qəbul edilmiş aktlar",
+      "suveren hüquq",
+      "yerli icra hakimiyyəti orqanları",
+      "ümumi məhkəmələr"
+    ]
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "parent": 70,
+    "members": [
+      "ali məclis",
+      "azərbaycan respublikasının konstitusiyası",
+      "hakimlər",
+      "ixtisaslaşdırılmış məhkəmələr",
+      "məhkəmə hakimiyyəti",
+      "məhkəmələr",
+      "naxçıvan muxtar respublikası",
+      "naxçıvan muxtar respublikasının konstitusiyası",
+      "naxçıvan muxtar respublikasının qanunları",
+      "ümumi məhkəmələr"
+    ]
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "parent": 70,
+    "members": [
+      "beynəlxalq müqavilələr",
+      "icra hakimiyyəti orqanları",
+      "insan və vətəndaş hüquqları və azadlıqları",
+      "məhkəmə hakimiyyəti orqanları",
+      "qanunvericilik hakimiyyəti orqanları"
+    ]
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "parent": 70,
+    "members": [
+      "fərmanlar",
+      "konstitusiya",
+      "mərkəzi icra hakimiyyəti orqanları",
+      "naxçıvan muxtar respublikasının qanunvericilik sistemi",
+      "qanunlar",
+      "qanunvericilik sistemi",
+      "qərarlar",
+      "referendumla qəbul edilmiş aktlar",
+      "yerli icra hakimiyyəti orqanları"
+    ]
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "parent": 70,
+    "members": [
+      "azərbaycan respublikasının dövlət sərhədləri",
+      "azərbaycan xalqı",
+      "dövlət hakimiyyəti",
+      "hakimiyyət",
+      "nümayəndələr",
+      "referendum",
+      "suveren hüquq"
+    ]
+  },
+  {
+    "id": 75,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "naxçıvan muxtar respublikası ali məclisi sədri",
+      "naxçıvan muxtar respublikasında yerli icra hakimiyyəti"
+    ]
+  },
+  {
+    "id": 76,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "dövlətlərarası müqavilələr",
+      "normativ hüquqi aktlar"
+    ]
+  },
+  {
+    "id": 77,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "vətəndaşlar"
+    ]
+  },
+  {
+    "id": 78,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "fiziki və hüquqi şəxslər"
+    ]
+  },
+  {
+    "id": 79,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "zərərin ödənilməsini tələb etmək hüququ"
+    ]
+  },
+  {
+    "id": 80,
+    "level": 0,
+    "parent": null,
+    "members": [
+      "milli məclis sədri"
+    ]
+  }
+]
